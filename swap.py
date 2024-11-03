@@ -3,7 +3,7 @@ def swap(num1, num2):
     num1 = num1 + num2
     num2 = num1 - num2
     num1 = num1 - num2
-    # i have dont the process but don't print
+    # i have not the process but don't print
     print(num1)
     print(num2)
 swap(4.4, 8.4)
